@@ -1,8 +1,7 @@
 import React from "react";
 import "./Home.css";
 import AppsIcon from "@material-ui/icons/Apps";
-import MicIcon from "@material-ui/icons/Mic";
-import SearchIcon from "@material-ui/icons/Search";
+
 import { Link } from "react-router-dom";
 import { Avatar } from "@material-ui/core";
 import Search from "../components/Search";
